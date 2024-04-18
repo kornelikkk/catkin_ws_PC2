@@ -1,0 +1,8 @@
+prefix=/home/angeminge/catkin_ws/devel
+
+Name: cam_detection
+Description: Description of cam_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/angeminge/catkin_ws/install
+
+Name: laser_ransac
+Description: Description of laser_ransac
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,20 @@
+<launch>
+   
+   
+   <node pkg="turn_pkg" type="move_across_squere.py" name="move_across_squere" output="screen"/>
+   <node pkg="turn_pkg" type="main_program.py" name="main_program" output="screen"/>
+
+   
+   <!-- <node pkg="cam_detection" type="cam_pose.launch" name="aruco_pose" output="screen"/> -->
+
+   <!-- <node pkg="cam_detection" type="main.py" name="aruco_main" output="screen"/> -->
+
+   <!-- <node pkg="cam_detection" type="traffic_dector.py" name="traffic_dector" output="screen"/> -->
+   
+   <!-- <node pkg="path_planner_pkg" type="main_planner.py" name="main_planner" output="screen"/> -->
+
+   <!-- <node pkg="laser_ransac" type="scan.py" name="scan" output="screen"/> -->
+
+
+
+</launch>
