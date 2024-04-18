@@ -1,8 +1,0 @@
-prefix=/home/angeminge/catkin_ws/devel
-
-Name: path_planner_pkg
-Description: Description of path_planner_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
